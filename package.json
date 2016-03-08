@@ -1,0 +1,16 @@
+{
+	"name": "experimental_host",
+	"version": "0.0.0",
+	"description": "provides an HTTP server for an experimental host.",
+	"main": "",
+	"repository": "",
+	"license": "",
+	"author": "Matthew Jackson <mwj@gmail.com.com>",
+	"dependencies": {
+		"express": "*"
+	},
+	"devDependencies": {
+		"jasmine": "*",
+		"eslint": "*"
+	}
+}
